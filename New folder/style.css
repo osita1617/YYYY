@@ -1,0 +1,155 @@
+body{
+  background-color: #EEE;
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: blue;
+}
+
+h1 h2 h3 {
+  margin: 0;
+}
+
+#container{
+  background-color: white;
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#header{
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
+
+#content{
+  padding: 10px;
+}
+
+#nav ul{
+  list-style-type: none;
+  padding: 0;
+}
+
+#nav{
+  width: 180px;
+  float: left;
+}
+
+#nav .selected{
+  font-weight: bold;
+  margin-bottom: 100px;
+}
+  .butt{
+  width: 100px;
+  padding: 15px 0;
+  margin: 20px 10px;
+  border-radius: 25px;
+  font-weight: bold;
+  border: 2px solid black;
+  background: black;
+  color: white;
+  cursor: pointer;
+  position: relative;
+  overflow: hidden;
+
+}
+.butt:hover {
+  background: grey;
+  color: white;
+  transition: 0.5s;
+  left:0;
+  bottom: 0;
+  height: 55%;
+  border: none;
+  width: 55%;
+}
+
+.buttt{
+  width: 100px;
+  padding: 15px 0;
+  margin: 20px 10px;
+  border-radius: 25px;
+  font-weight: bold;
+  border: 2px solid black;
+  background: black;
+  color: white;
+  cursor: pointer;
+  position: relative;
+  overflow: hidden;
+
+}
+.buttt:hover {
+  background: grey;
+  color: white;
+  transition: 0.5s;
+  left:0;
+  bottom: 0;
+  height: 55%;
+  border: none;
+  width: 55%;
+}
+.butt{
+  width: 100px;
+  padding: 15px 0;
+  margin: 20px 10px;
+  border-radius: 25px;
+  font-weight: bold;
+  border: 2px solid black;
+  background: black;
+  color: white;
+  cursor: pointer;
+  position: relative;
+  overflow: hidden;
+
+}
+.butt:hover {
+  background: grey;
+  color: white;
+  transition: 0.5s;
+  left:0;
+  bottom: 0;
+  height: 55%;
+  border: none;
+  width: 55%;
+}
+.butttt{
+  width: 100px;
+  padding: 15px 0;
+  margin: 20px 10px;
+  border-radius: 25px;
+  font-weight: bold;
+  border: 2px solid black;
+  background: black;
+  color: white;
+  cursor: pointer;
+  position: relative;
+  overflow: hidden;
+
+}
+.butttt:hover {
+  background: grey;
+  color: white;
+  transition: 0.5s;
+  left:0;
+  bottom: 0;
+  height: 55%;
+  border: none;
+  width: 55%;
+}
+#main{
+  width: 600px;
+  float: left;
+}
+
+#footer{
+  clear: both;
+  padding: 10px;
+  background-color: #999999;
+  color: white;
+  text-align: right;
+}
